@@ -550,11 +550,7 @@ attachment) are of low importance.
 - Infomap, Multilevel, Clustering Coefficient,
   modularity score: igraph (python-igraph):
 - Particle method: https://github.com/quiles/ParticleCommunity
+** Code
+#+REVEAL_HTML: <div style="font-size:70%">
+Available at https://github.com/JakDar/AGH-complex-systems-dblp-analysis
 * Thank You
-* Notes :noexport:
-- [X] opisać F1 score, accurracy itp.
-- [X] negative samples poprawić
-- [X] describe eu dataset
-- [X] opisać / opowiedzieć o metrykach żeby ludzie mieli pogląd (modularity itp.)
-- [X] zmergować obrazki  histogramu rozkładu rozmiarów na 1 slajd
-- [X] skrócić i zwizualizować label propagation / multilevel
