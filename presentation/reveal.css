@@ -1,0 +1,64 @@
+#table-of-contents h2 {
+  font-size: 90%;
+}
+
+#table-of-contents {
+  font-size: 45%;
+}
+
+#text-table-of-contents {
+  font-size: 50%;
+}
+
+.date {
+  display: none;
+}
+
+#intersection-table img {
+  height: 280px;
+}
+
+#light table {
+  box-shadow: 0 0 0.8em gray;
+  background-color: #fff;
+  color: #222;
+  /* margin: auto; */
+  /* border-collapse: collapse; */
+  /* border-spacing: 0; */
+
+  margin: 1em auto;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  border-collapse: collapse;
+}
+
+#light table th {
+  font-weight: bold;
+
+  padding: 0.3em 0.6em;
+  vertical-align: middle;
+}
+
+#light table th,
+#light table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  /* border-bottom: 1px solid; */
+
+  border-left: 1px solid grey;
+}
+
+#light table th[align="center"],
+#light table td[align="center"] {
+  text-align: center;
+}
+
+#light table th[align="right"],
+#light table td[align="right"] {
+  text-align: right;
+}
+
+#light table tbody tr:last-child th,
+#light table tbody tr:last-child td {
+  border-bottom: none;
+}

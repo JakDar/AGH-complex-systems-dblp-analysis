@@ -1,0 +1,16 @@
+__pycache__
+venv/
+.idea/
+*.iml
+target/
+*.env
+.ipynb_checkpoints/
+sbt-cache/
+.jvmopts
+.metals/
+.bloop/
+csv
+import.report
+*.graph
+*.tree
+eu/
